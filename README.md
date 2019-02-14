@@ -12,6 +12,9 @@ hsqldb-2.4.1\hsqldb>java -cp lib/hsqldb.jar org.hsqldb.server.Server --database.
 3.Set Main.java as your main class, and add logs.txt as an input argument.
 
 Next Steps :
+
 Writing unit tests
+
 Write Base class for handling Database Connections
+
 Improve error handling flow and increase error logging messages output details
