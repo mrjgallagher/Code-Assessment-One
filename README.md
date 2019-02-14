@@ -4,7 +4,7 @@ A small piece of demonstration code written in 2/3 hours. The aim of this code s
 
 This was interesting as it was my first time using Gradle ! I may now be converted !
 
-##Instructions :
+## Instructions :
 1.Run >$ Gradle clean build 
 
 2.Start up db
