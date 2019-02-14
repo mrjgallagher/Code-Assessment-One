@@ -1,8 +1,8 @@
 # Code-Assessment-One
 
-A small piece of demonstration code written in 2/3 hours. The aim of this code snippet is to demonstrait my knowledge of java 8, and my ability to write clean, decoupled, object oriented code.
+A small piece of demonstration code written in 2/3 hours. There is a lot more i would like to do with this code, however i didnt want to strsy too fasr over the time limit! The aim of this code snippet is to demonstrait my knowledge of java 8, and my ability to write clean, decoupled, object oriented code.
 
-This was interesting as it was my first time using Gradle ! I may now be converted !
+This was interesting as it was my first time using Gradle. I may now be converted !
 
 ## Instructions :
 1.Run >$ Gradle clean build 
