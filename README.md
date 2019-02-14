@@ -1,18 +1,19 @@
 
-This is a piece of demo code which was supposed to take under 2 hours to write.
+A small piece of demonstration code written in 2/3 hours.
 
-It was also my my first time using Gradle ! Which i may now be converted to !
+This was interesting as it was my first time using Gradle ! I may now be converted !
 
-Run >$ Gradle clean build
+Instructions 
+#############
+Run >$ Gradle clean build 
 
 Start up db
 hsqldb-2.4.1\hsqldb>java -cp lib/hsqldb.jar org.hsqldb.server.Server --database.0 file:data/mydb --dbname.0 Test
 
-open up DB UI
-hsqldb-2.4.1\hsqldb>java -cp lib/hsqldb.jar org.hsqldb.util.DatabaseManagerSwing
+Set Main.java as your main class, and add logs.txt as an input argument.
 
 Next Steps
 ############
 Writing unit tests
-Write Base class for handling DB Connections
-Improve error handling and increase Error logging Details
+Write Base class for handling Database Connections
+Improve error handling flow and increase error logging messages output details
