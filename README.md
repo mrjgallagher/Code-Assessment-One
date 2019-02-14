@@ -1,5 +1,6 @@
 
 A small piece of demonstration code written in 2/3 hours.
+
 This was interesting as it was my first time using Gradle ! I may now be converted !
 
 Instructions :
